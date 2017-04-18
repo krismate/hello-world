@@ -1,0 +1,10 @@
+<style>
+  <body>
+div {
+  background-color: gray;
+  text-align: center;
+  text-decoration: line-through;
+  background-image: image();
+}
+</body>
+</style>
